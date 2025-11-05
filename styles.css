@@ -85,7 +85,7 @@ a:hover {
     color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 10px;
 }
 
 .nav-links {
@@ -111,7 +111,6 @@ body {
 
 
 /*styling for footer*/
-
 .footer {
     background-color: #da3a8a;
     color: #ffffff;
@@ -321,6 +320,10 @@ hr {
     margin-bottom: 6px;
 }
 
+.options {
+    color:#000000
+}
+
 
 /*styling for statement*/
 .citations{
@@ -445,7 +448,7 @@ hr {
 
 .activity-body p {
     margin: 0;
-    color: #222;
+    color: #000000;
     line-height: 1.45;
 }
 
